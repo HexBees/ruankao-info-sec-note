@@ -1,19 +1,4 @@
-](//www.zhihu.com)__
-
-首发于[信息安全工程师](//www.zhihu.com/column/c_1287418255620575232)
-
-切换模式
-
-写文章
-
-登录/注册
-
 # 信息安全工程师（第二版）章九：VPN 技术原理与应用
-
-![西域记](https://picx.zhimg.com/v2-0229dfd9d44d5d2ffbfba4852fa3f825_l.jpg?source=172ae18b)](//www.zhihu.com/people/zhou-
-sheng-13-98)
-
-[西域记](//www.zhihu.com/people/zhou-sheng-13-98)
 
 ## 一、VPN 概述
 
@@ -132,22 +117,3 @@ xmlns='http://www.w3.org/2000/svg' width='906' height='858'></svg>)
   * 远程访问虚拟网（Access VPN）：远程办公
   * 内部虚拟网（Intranet VPN）：企业总部、分支机构、办事处连接
   * 扩展虚拟网（Extranet VPN）：合作伙伴、不同公司连接
-
-发布于 2020-09-25 17:34
-
-网络安全](//www.zhihu.com/topic/19554927)
-
-​赞同 7​​添加评论
-
-​分享
-
-​喜欢​收藏​申请转载
-
-​
-
-### 文章被以下专栏收录
-
-![信息安全工程师](https://pic1.zhimg.com/4b70deef7_l.jpg?source=172ae18b)](//www.zhihu.com/column/c_1287418255620575232)
-
-## [信息安全工程师](//www.zhihu.com/column/c_1287418255620575232)
-
